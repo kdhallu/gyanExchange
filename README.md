@@ -3,7 +3,7 @@
 // writing jquery extensions and prowiding and defaults 
 
 If you are writing extenstion and want to use some defaults use the $.extend
-eg. 
+Eg:
 $jqGallery = function(options){
 	var defaults = {
 		delay : 10
